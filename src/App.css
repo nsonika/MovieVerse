@@ -1,0 +1,9 @@
+@media (min-width: 768px) {
+	.movie-list-container {
+	  justify-content: flex-start;
+	}
+  }
+  
+  .favourite{
+	cursor: pointer;
+  }
